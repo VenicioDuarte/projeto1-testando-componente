@@ -1,4 +1,3 @@
-// src/components/Counter.test.js
 import React from 'react'; // Importar o React
 import { render, screen, fireEvent } from '@testing-library/react';
 import '@testing-library/jest-dom';
